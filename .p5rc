@@ -1,0 +1,9 @@
+{
+  "name": "testes",
+  "projects": [
+    "bouncingBalls01",
+    "bouncingBalls02",
+    "morphing",
+    "randoms"
+  ]
+}
