@@ -27,7 +27,7 @@ function draw()
 				let inc = 0.85;
 				rows = rows / inc;
 				rowScale = rowScale * inc;
-				speed = min(5000, speed / (([inc+1)/2));
+				speed = min(5000, speed / ((inc+1)/2));
 				scaleChanges++;
 				console.log("Scale update " + scaleChanges);
 				console.log(rows, rowScale, speed);
